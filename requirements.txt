@@ -1,0 +1,7 @@
+torch
+numpy
+tqdm
+supervision
+opencv-python-headless
+ultralytics
+git+https://github.com/roboflow/sports.git
