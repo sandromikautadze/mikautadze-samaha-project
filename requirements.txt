@@ -2,6 +2,7 @@ torch
 numpy
 tqdm
 supervision
-opencv-python-headless
+opencv-python
 ultralytics
+inference
 git+https://github.com/roboflow/sports.git
