@@ -8,5 +8,8 @@
 - ```video.mp4``` and ```frame.jpg``` are the are a sample video and a sample frame to run the inference for the player detection and offside detection, respectively.
 - ```best.pt``` contains the weight of our fine-tuned YOLO11n model.
 
-Use ```pip install -r requirements.txt``` to get our environment. If there are problems with the dependencies do not hesitate to contact us.
-
+Use
+```bas
+pip install -r requirements.txt
+```
+to get our environment. If there are problems with the dependencies do not hesitate to contact us.
