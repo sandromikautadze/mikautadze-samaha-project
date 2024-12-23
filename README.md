@@ -7,7 +7,7 @@
 - ```.env``` contains the API key to retrieve the models from Roboflow-
 - ```video.mp4``` and ```frame.jpg``` are the are a sample video and a sample frame to run the inference for the player detection and offside detection, respectively.
 - ```best.pt``` contains the weight of our fine-tuned YOLO11n model.
-- ```mikautadze-samaha-demo.mp4``` contains a 15s video demo of the project.
+- ```mikautadze-samaha-demo.mp4``` contains a 15s video demo of the project, also available at https://www.youtube.com/watch?v=7G0yiIbtowM 
 
 Use
 ```bash
